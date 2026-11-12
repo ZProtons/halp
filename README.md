@@ -4,6 +4,14 @@
 
 ## Install
 
+Install the published package with:
+
+```sh
+python -m pip install halp-cli
+```
+
+To install the current checkout instead:
+
 ```sh
 python -m pip install .
 ```
