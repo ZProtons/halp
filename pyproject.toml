@@ -13,5 +13,10 @@ dependencies = ["requests>=2.28"]
 [project.scripts]
 halp = "halp:main"
 
+[project.urls]
+Homepage = "https://github.com/ZProtons/halp"
+Repository = "https://github.com/ZProtons/halp"
+Issues = "https://github.com/ZProtons/halp/issues"
+
 [tool.setuptools]
 py-modules = ["halp"]
