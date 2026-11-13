@@ -1,6 +1,6 @@
 # halp
 
-<img width="1254" height="1254" alt="c1c336dd-c631-4fef-9ea6-3ab0ce8e8f62" src="https://github.com/user-attachments/assets/7d773eba-6f03-44b3-b29e-6da9094a1993" />
+<img width="256" height="256" alt="c1c336dd-c631-4fef-9ea6-3ab0ce8e8f62" src="https://github.com/user-attachments/assets/7d773eba-6f03-44b3-b29e-6da9094a1993" />
 
 
 `halp` turns a natural-language task into a shell command grounded in the selected tool's help or man page. It talks to an OpenAI-compatible LLM endpoint and does not execute suggestions unless `-a` is enabled and the user confirms.
